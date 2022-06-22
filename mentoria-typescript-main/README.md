@@ -2,6 +2,8 @@
   
 *Bem vindo!!*
 
+## Desafios para entrega feitos por JORGE MACHADO - desenvolvedor junior - para desafio typescript impulso bootcamp da DIO
+
 O objetivo desse repositório é mostrar exemplos e desafios de typescript que vão dar uma noção geral suficiente da ferramenta para que ela seja usada no dia a dia do desenvolvedor.
   
 Para quem é esse repositório:   
